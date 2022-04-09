@@ -1,5 +1,5 @@
 
-
+#Juan DiegoRivera Meneses
 
 calificaciones = int(input("Por favor ingrese la cantidad de notas de los estudiantes: "))
 
